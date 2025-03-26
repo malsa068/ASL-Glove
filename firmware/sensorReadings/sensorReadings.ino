@@ -1,3 +1,11 @@
+/*
+  todos:
+    establish bluetooth/wifi connection
+    initialize and collect gyroscope data
+    collect gesture data for datasets
+    find how to deliver data to ml model
+*/
+
 // Define flex sensor pins with corresponding finger names
 const int thumbPin = A1;
 const int indexPin = A2;
